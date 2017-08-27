@@ -1,2 +1,2 @@
-mvn linguist-vendored
-mvn.cmd linguist-vendored
+mvnw linguist-vendored
+mvnw.cmd linguist-vendored
