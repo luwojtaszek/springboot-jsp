@@ -57,7 +57,7 @@ public class WebConfig extends WebMvcConfigurerAdapter {
 }
 ```
 
-4. Create jsp views in src/main/resources/META-INF/resources/WEB-INF/ directory.
+4. Create jsp views in src/main/webapp/WEB-INF/ directory.
 
 ## How to run this application
 
